@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/pro-dotcom/firmware.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://www.firmwarepro.online/2021/04/samsung-galaxy-m40-sm-m405f-stock.html) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
