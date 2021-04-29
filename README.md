@@ -26,9 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://www.firmwarepro.online/).
+For more details see [samsung galaxy m40 sm m405f stock](https://www.firmwarepro.online/2021/04/samsung-galaxy-m40-sm-m405f-stock.html).
 
-https://www.firmwarepro.online/2021/04/samsung-galaxy-m40-sm-m405f-stock.html
 
 
 
